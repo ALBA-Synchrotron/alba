@@ -55,6 +55,17 @@ setup(
 5. create a `alba/hplab` directory. This is where you
    should put the specific code for ALBA's HP lab.
 
+By now you should have a structure like this
+
+```
+hplab/
+├── alba
+│   ├── hplab
+│   │   └── __init__.py
+│   └── __init__.py
+└── setup.py
+```
+
 
 That's it! If you publish your package on pypi you will
 be able to install your software anywere with:

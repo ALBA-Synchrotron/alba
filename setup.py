@@ -28,6 +28,6 @@ setup(
     long_description_content_type="text/markdown",
     keywords="ALBA, synchrotron, controls",
     url="https://github.com/alba-synchrotron/alba",
-    version="0.1.0",
+    version="0.1.1",
     python_requires=">=3.5",
 )
