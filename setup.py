@@ -10,8 +10,8 @@ with open("README.md") as f:
 
 setup(
     name="alba",
-    author="ALBA Synchrotron controls team",
-    author_email="controls-software@cells.es",
+    author="ALBA Synchrotron computing team",
+    author_email="computing@cells.es",
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Developers",
@@ -19,6 +19,7 @@ setup(
         "Programming Language :: Python :: 3.5",
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],
     packages=find_packages(),
